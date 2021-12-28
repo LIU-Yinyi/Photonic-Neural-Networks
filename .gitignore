@@ -1,7 +1,11 @@
 build/
+dist/
+docs/build/
 .ipynb_checkpoints/
 __pycache__/
+*.egg-info/
 
+MANIFEST
 .DS_Store
 *.o
 *.swp

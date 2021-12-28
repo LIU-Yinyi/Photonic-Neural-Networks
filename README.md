@@ -1,10 +1,10 @@
 ## Photonic Neural Networks
 
-![](https://img.shields.io/badge/language-python-brightgreen) ![](https://img.shields.io/badge/version-v0.0.1-blue)
+![](https://img.shields.io/badge/language-python-brightgreen) ![](https://img.shields.io/badge/release-v0.0.1-blue)
 
 The aim of this project is to create an easy and light-weight libraries of photonic neural networks (PNNs). The current version only includes the models of universal multiport interferometers. We provide Reck's, Clements' and our presented methods in `pnn` library, which is now available on [pypi](https://pypi.org/project/pnn/). The **derivation** and **tutorials** can be found in my [blog](https://blog.liuyinyi.com/tag/d9CF8N7Mg/).
 
-![](media/pnn-schematic.png)
+![](https://raw.githubusercontent.com/LIU-Yinyi/Photonic-Neural-Networks/master/media/pnn-schematic.png)
 
 
 ### Installation
