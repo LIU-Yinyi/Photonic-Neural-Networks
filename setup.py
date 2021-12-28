@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 
 with open("README.md", "r", encoding="utf-8") as fh:
@@ -7,8 +7,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
   name = 'pnn',         # How you named your package folder (pnn)
-  packages = ['pnn'],   # Chose the same as "name"
-  version = '0.0.3',      # Start with a small number and increase it with every change you make
+  packages = find_packages(),   # Chose the same as "name"
+  version = '0.0.5',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Libraries for Photonic Neural Networks',   # Give a short description about your library
   long_description = readme_filedata,

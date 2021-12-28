@@ -1,2 +1,2 @@
-from pnn import methods
-from pnn import utils
+from . import methods
+from . import utils
