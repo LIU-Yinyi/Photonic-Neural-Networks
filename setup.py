@@ -8,7 +8,7 @@ setup(
   author = 'Yinyi',                   # Type in your name
   author_email = 'support@liuyinyi.com',      # Type in your E-Mail
   url = 'https://github.com/LIU-Yinyi/Photonic-Neural-Networks',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/LIU-Yinyi/Photonic-Neural-Networks/archive/v0_0_1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/LIU-Yinyi/Photonic-Neural-Networks/releases/download/v0.0.1/pnn-0.0.1.zip',    # I explain this later on
   keywords = ['optic', 'photonic', 'neural networks', 'decomposition'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
